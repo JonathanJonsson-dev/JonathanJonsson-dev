@@ -1,6 +1,6 @@
 ### Hi there I'm Jonathan 👋 I'm currently a system developer student, graduating in june 2022. 
 
-* ✏️ I’m currently learning react native.   
+* ✏️ I’m currently learning Node.js and Express.   
 * 🔭 I’m currently working on an app and will build a website/app as a final school project for a company starting in spring 2022.
 * 🥅 2022 Goals: Learn and invest more. 
 * ❤️ Machine learning, Quantitative finance, Stocks, Golf and Code. 
