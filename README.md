@@ -1,6 +1,6 @@
 ### Hi there I'm Jonathan 👋 I'm currently a system developer student, graduating in june 2022. 
 
-* ✏️ I’m currently learning object detection in Tensorflow.  
+* ✏️ I’m currently learning Openshift.
 * 🔭 I’m currently working on the website https://www.sparadkrona.se
 * 🥅 2022 Goals: Learn and invest more. 
 * ❤️ Machine learning, Quantitative finance, Stocks, Golf and Code. 
