@@ -1,8 +1,8 @@
-### Hi there I'm Jonathan 👋 I'm currently a system developer student, graduating in june 2022. 
+### Hi there I'm Jonathan 👋 I'm working as a system developer.
 
 * ✏️ I’m currently learning Openshift.
 * 🔭 I’m currently working on the website https://www.sparadkrona.se
-* 🥅 2022 Goals: Learn and invest more. 
+* 🥅 2024 Goals: Learn and invest more. 
 * ❤️ Machine learning, Quantitative finance, Stocks, Golf and Code. 
 * ⚡ Fun fact: I can hit a golf ball 330 meters. 
 
